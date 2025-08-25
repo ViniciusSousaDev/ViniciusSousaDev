@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor`**
 
 Me chamo **Vinicius Soares de Sousa**, tenho 21 anos e sou natural de São Paulo - SP.  
 Atualmente, estou cursando **Ciência da Computação na Universidade Cidade de São Paulo**.  
