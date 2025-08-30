@@ -21,14 +21,15 @@ Você pode me acompanhar também no [Instagram](https://www.instagram.com/viniso
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/ViniciusSousaDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
-    </a>
     <a href="https://github.com/ViniciusSousaDev?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/ViniciusSousaDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+      <img 
+        alt="Seguidores" 
+        title="Me siga no GitHub" 
+        src="https://img.shields.io/github/followers/ViniciusSousaDev?label=SEGUIDORES&style=for-the-badge&logo=github&logoColor=white&color=236ad3&labelColor=1155ba"
+      />
     </a>
+
+
 
 
 </p>
