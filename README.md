@@ -122,7 +122,7 @@ Você pode me acompanhar também no [Instagram](https://www.instagram.com/viniso
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ViniciusSousaDesv&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=ViniciusSousaDev&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
