@@ -8,7 +8,7 @@ Me chamo **Vinicius Soares de Sousa**, tenho 21 anos e sou natural de São Paulo
 Atualmente, estou cursando **Ciência da Computação na Universidade Cidade de São Paulo**.  
 
 Tenho experiência em desenvolvimento de **sites com HTML, CSS e JavaScript**, além de interesse e prática com **bancos de dados relacionais**.  
-Sou apaixonado por tecnologia e estou sempre em busca de aprender e evoluir como desenvolvedor.  
+Sou um entusiasta da tecnologia e estou sempre em busca de aprender e evoluir como desenvolvedor.  
 
 Você pode me acompanhar também no [Instagram](https://www.instagram.com/vinisousa.dev) e no [LinkedIn](https://www.linkedin.com/in/viniciussousadev).  
 
