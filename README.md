@@ -59,5 +59,5 @@ Este GitHub apresenta minha evolução como desenvolvedor e reúne:
 
 <h2> 🚀 &nbsp;Minhas Estatísticas do GitHub</h2>
 
-![Vinicius Sousa GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinisousadev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinisousadev&layout=compact&theme=tokyonight)
+![Vinicius Sousa GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniciussousadev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussousadev&layout=compact&theme=tokyonight)
