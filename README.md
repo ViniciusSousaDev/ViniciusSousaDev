@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou o Vinicius Sousa, Desenvolvedor!</h1>
+<h1>👋 &nbsp;Olá, eu sou o Vinicius Sousa!</h1>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/viniciussousadev/"><img src="https://img.shields.io/badge/-Meu%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
