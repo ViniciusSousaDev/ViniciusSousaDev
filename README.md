@@ -12,13 +12,12 @@
 
 <img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
 
-I am a **Computer Science** student, in the final stages of my degree, with solid experience as a *Full Stack Developer*, both in back-end and front-end. I have experience as a web developer for the restaurant industry, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and fun.
+I am a *Computer Science student*, currently in my 5th semester. I have experience as an administrative/accounting assistant and my goal is to improve my development skills and explore new technologies. I love learning and building something new, creative, and fun.
 - 📚 I’m currently learning ...
-  - *Natural Language Processing (NLP)*
-  - *Constraint Programming + Machine Learning*
+  - *Java*
+  - *Python*
 - 🚀 I’m eager to work on new projects.
-  - *Creating an a Assistant AI: A.L.I.C.E.*
-- ✔ Feel free to ask me anything! I’m motivated to help others.
+- ✔ Feel free to ask me anything!
 - Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and I also love 🎸 playing musical instruments.
 - 📫 Reach out to me at: <a href="vini.sousa834@gmail.com">vini.sousa834@gmail.com</a>
 <br>
