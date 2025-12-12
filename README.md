@@ -10,7 +10,7 @@
 <!-- About me -->
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
+<img align="right" width=200px alt="Unicorn" src="https://media1.tenor.com/m/5ry-200hErMAAAAd/hacker-hacker-man.gif"/>
 
 I am a *Computer Science student*, currently in my 5th semester. I have experience as an administrative/accounting assistant and my goal is to improve my development skills and explore new technologies. I love learning and building something new, creative, and fun.
 - 📚 I’m currently learning ...
@@ -61,7 +61,7 @@ I am a *Computer Science student*, currently in my 5th semester. I have experien
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
 
-<img align="right" width=310px alt="Unicorn" src="https://media1.tenor.com/m/XwmLgqDr19YAAAAC/colin-ritman-bandersnatch.gif"/>
+<img align="right" width=310px alt="Unicorn" src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif"/>
 
 ###### Deployment & Cloud Services:
 ![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
@@ -101,7 +101,7 @@ I am a *Computer Science student*, currently in my 5th semester. I have experien
       <h3 align="center">Sistema de Fila para Barbearias</h3>
       <div align="center">
         <a href="https://github.com/ViniciusSousaDev/fila-barbearia-c" target="_blank">
-          <img src="https://github.com/ViniciusSousaDev/fila-barbearia-c/blob/main/logo.png" width="500" style="object-fit: cover;" alt="El Molino">
+          <img src="https://github.com/ViniciusSousaDev/fila-barbearia-c/blob/main/logo.png" width="500" style="object-fit: cover;" alt="filaBarbearia">
         </a>
         <p>
           <a href="https://github.com/ViniciusSousaDev/fila-barbearia-c" target="_blank">
@@ -123,11 +123,11 @@ I am a *Computer Science student*, currently in my 5th semester. I have experien
 <table align="center">
 <tr>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=hexed-ViniciusSousaDev&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hexed-ViniciusSousaDev&theme=nightowl&hide_border=false" alt="ALX-13 streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ViniciusSousaDev&theme=nightowl&show_icons=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ViniciusSousaDev&theme=nightowl&hide_border=false" alt="ALX-13 streak" />
 </td>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hexed-ViniciusSousaDev&theme=nightowl&hide_border=false&langs_count=10"/>
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ViniciusSousaDev&theme=nightowl&hide_border=false&langs_count=10"/>
 </td>
 </tr>
 </table>
@@ -138,7 +138,7 @@ I am a *Computer Science student*, currently in my 5th semester. I have experien
 <br>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-    <img alt="visitors counter" src="https://views-counter.vercel.app/badge?pageId=hexed-ViniciusSousaDev%2FViews-Counter">
+    <img alt="visitors counter" src="https://views-counter.vercel.app/badge?pageId=ViniciusSousaDev%2FViews-Counter">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
 </div>
 <br>
