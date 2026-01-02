@@ -20,7 +20,7 @@ Sou *estudante de Ciência da Computação*, atualmente no 5º semestre. Tenho e
   - *Python*
 - 🚀 Estou animado para trabalhar em novos projetos.
 - ✔ Sinta-se à vontade para me perguntar qualquer coisa!
-- Além de desenvolver, gosto de socializar com amigos, 🎮 jogar videogames, 🎵 ouvir música, e também amo 🎸 tocar instrumentos musicais.
+- Além de desenvolver, gosto de socializar com amigos, jogar videogames 🎮, ouvir música 🎵, e também amo tocar instrumentos musicais 🎸.
 - 📫 Entre em contato comigo: <a href="vini.sousa834@gmail.com">vini.sousa834@gmail.com</a>
 <br>
 
