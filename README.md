@@ -1,4 +1,4 @@
-<!-- Presentation -->
+<!-- Arpesentação -->
 <div align="center">
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h1><b>Olá, eu sou o </b><a href="[https://github.com/hexed-AAL1X](https://github.com/ViniciusSousaDev)">Vini</a> 
@@ -7,7 +7,7 @@
 <br>
 </div>
 
-<!-- About me -->
+<!-- Sobre Mim -->
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***Sobre mim***
 
 <img align="right" width=200px alt="Unicorn" src="https://media1.tenor.com/m/5ry-200hErMAAAAAd/hacker-hacker-man.gif"/>
@@ -24,7 +24,7 @@ Sou *estudante de Ciência da Computação*, atualmente no 5º semestre. Tenho e
 - 📫 Entre em contato comigo: <a href="vini.sousa834@gmail.com">vini.sousa834@gmail.com</a>
 <br>
 
-<!-- Social Links -->
+<!-- Links -->
 <div align="center">
   <a href="mailto:vini.sousa834@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
   <a href="https://www.linkedin.com/in/viniciussousadev/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
@@ -89,7 +89,7 @@ Sou *estudante de Ciência da Computação*, atualmente no 5º semestre. Tenho e
 
 <br><br>
 
-<!-- My Projects -->
+<!-- Meus Projetos -->
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***Meus Projetos***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
