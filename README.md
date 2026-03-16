@@ -8,6 +8,7 @@ Olá, sou o Vinícius Sousa.
 **`Desenvolvedor full-stack`**
 
 Me chamo Vinícius Soares de Sousa, tenho 21 anos e sou de São Paulo-SP. 
+
 Atualmente estou cursando Graduação em Ciências da Computação na UNICID.
 
 ---
