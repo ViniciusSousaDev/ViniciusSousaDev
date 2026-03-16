@@ -13,6 +13,11 @@ Atualmente estou cursando Graduação em Ciências da Computação na UNICID.
 
 ---
 
+ <a href = "mailto:vini.sousa834@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ViniciusSousaDev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
