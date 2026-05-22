@@ -1,0 +1,102 @@
+name: Update Top Repositories
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          ref: main  # troque para 'master' se seu repo usar master
+
+      - name: Build Section
+        run: |
+          python3 << 'EOF'
+          import json, subprocess
+
+          result = subprocess.run(
+              [
+                  'curl', '-s',
+                  '-H', 'Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}',
+                  'https://api.github.com/users/ViniciusSousaDev/repos?per_page=100'
+              ],
+              capture_output=True, text=True
+          )
+
+          data = json.loads(result.stdout)
+
+          # valida se veio lista válida
+          if not isinstance(data, list):
+              print("Erro ao buscar repositórios:")
+              print(result.stdout)
+              exit(1)
+
+          repos = sorted(
+              data,
+              key=lambda r: r.get('stargazers_count', 0),
+              reverse=True
+          )[:3]
+
+          lines = []
+          lines.append('<div align="center">')
+          lines.append('')
+          lines.append('## 🚀 Top Repositórios')
+          lines.append('')
+          lines.append('| 📦 Repositório | ⭐ Stars | 🍴 Forks | 🗣️ Linguagem |')
+          lines.append('|:---|:---:|:---:|:---:|')
+
+          for r in repos:
+              name  = r.get('name', '')
+              url   = r.get('html_url', '')
+              stars = r.get('stargazers_count', 0)
+              forks = r.get('forks_count', 0)
+              lang  = r.get('language') or '—'
+              desc  = (r.get('description') or '_Sem descrição_')[:60]
+
+              lines.append(
+                  f'| [**{name}**]({url}) <br/> <sub>{desc}</sub> | ⭐ {stars} | 🍴 {forks} | `{lang}` |'
+              )
+
+          lines.append('')
+          lines.append('</div>')
+          lines.append('')
+
+          with open('top_repos.md', 'w') as f:
+              f.write('\n'.join(lines))
+
+          print("Seção gerada com sucesso!")
+          EOF
+
+      - name: Replace Section in README
+        run: |
+          awk '
+            /<!--TOP_REPOS_START-->/ {
+              print
+              while ((getline line < "top_repos.md") > 0) print line
+              close("top_repos.md")
+              skip=1
+              next
+            }
+            /<!--TOP_REPOS_END-->/ {
+              skip=0
+            }
+            !skip { print }
+          ' README.md > README.tmp
+          mv README.tmp README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Atualizando Top 3 Repos automaticamente 🚀" || exit 0
+          git push
