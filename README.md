@@ -154,6 +154,26 @@ const vinicius = {
 
 ## 🚀 Projetos em Destaque / Featured Projects
 
+> **🌐 [Portfólio Pessoal](https://www.vinisousadev.com.br)**
+>
+> **`HTML5` `CSS3` `JavaScript` `Dark Mode` `Responsive`**
+>
+> Portfólio pessoal desenvolvido do zero com HTML, CSS e JavaScript puro. Design dark/minimalista, alternância de tema claro/escuro, animações com Intersection Observer e totalmente responsivo.
+>
+> *Personal portfolio built from scratch with vanilla HTML, CSS and JS — dark/light mode, smooth animations, fully responsive.*
+
+---
+
+> **💄 [Gabriela Junqueira Beauty](https://www.gabrielajunqueirabeauty.com.br)**
+>
+> **`HTML5` `CSS3` `JavaScript` `Landing Page` `UX/UI`**
+>
+> Landing page desenvolvida para maquiadora profissional especializada em noivas. Inclui portfólio de trabalhos, seção de serviços, depoimentos, formulário de agendamento e integração com WhatsApp.
+>
+> *Landing page built for a professional bridal makeup artist — portfolio, services, testimonials, booking form and WhatsApp integration.*
+
+---
+
 > **📱 [Sistema de Fila para Barbearias](https://github.com/ViniciusSousaDev/barbearia-fila)**
 >
 > **`React Native` `JavaScript` `HTML` `CSS` `Vite`**
@@ -164,33 +184,33 @@ const vinicius = {
 
 ---
 
-> **🤖 [AnalyzerHub](https://github.com/joaocarpim/analyzeGitHub)** *(Colaboração / Collaboration)*
+> **🎸 [Pedaleira MIDI com Arduino](https://github.com/ViniciusSousaDev/midi-pedalboard-arduino)**
 >
-> **`React` `TypeScript` `API Groq` `Serverless`**
+> **`C++` `Arduino` `Hardware` `MIDI`**
 >
-> Análise de perfis do GitHub com IA: seguidores, quem não segue de volta, insights e pontuação de empregabilidade.
+> Pedaleira MIDI DIY com Arduino Nano, botões footswitch e LEDs indicadores, enviando comandos MIDI via USB para softwares como Guitar Rig, AmpliTube e Reaper.
 >
-> *AI-powered GitHub profile analyzer — followers, unfollow tracking, insights, and employability score.*
+> *DIY MIDI pedalboard built with Arduino Nano — footswitch buttons, LED indicators, and USB MIDI output for Guitar Rig, AmpliTube or Reaper.*
 
 ---
 
-> **⚔️ [Robocode Wrecker](https://github.com/joaocarpim/robocode_CPS)** *(Colaboração / Collaboration)*
+> **🔍 [Busca em Profundidade em Grafos](https://github.com/ViniciusSousaDev/Busca-em-Profundidade-em-Grafos)**
 >
-> **`Java 8` `Robocode`**
+> **`C` `Algoritmos` `Grafos` `DFS`**
 >
-> 🏆 4 anos consecutivos no pódio em competições de Robocode do Centro Paula Souza — incluindo um título de campeão. Representando Etec Fernando Prestes e Fatec Sorocaba.
+> Implementação em C de grafo não direcionado usando matriz de adjacência e algoritmo de Busca em Profundidade (DFS) para encontrar caminhos entre vértices.
 >
-> *🏆 4 consecutive podium finishes at the Centro Paula Souza Robocode tournament — including a championship title.*
+> *C implementation of an undirected graph using adjacency matrix and Depth-First Search (DFS) algorithm to find paths between vertices.*
 
 ---
 
-> **🪙 [HoldCrypto](https://github.com/joaocarpim/AMS_HoldCrypto)** *(Colaboração / Collaboration)*
+> **🎮 [Jogo da Forca em Python](https://github.com/ViniciusSousaDev/Jogo-da-forca-Python)**
 >
-> **`TypeScript` `React`**
+> **`Python` `CLI` `Lógica`**
 >
-> Plataforma de simulação de troca de criptomoedas com dados em tempo real e interface intuitiva.
+> Implementação simples do clássico Jogo da Forca com lógica completa em Python.
 >
-> *Crypto trading simulation platform with real-time data and an intuitive interface.*
+> *Simple implementation of the classic Hangman game with complete logic in Python.*
 
 ---
 
@@ -209,7 +229,7 @@ const vinicius = {
 | 📦 Repositório | ⭐ Stars | 🍴 Forks | 🗣️ Linguagem |
 |:---|:---:|:---:|:---:|
 | [**Criar-Pastas-Windows**](https://github.com/ViniciusSousaDev/Criar-Pastas-Windows) <br/> <sub>Script em BAT criado para criar pastas numeradas (de 1 a 12)</sub> | ⭐ 1 | 🍴 0 | `Batchfile` |
-| [**script-backup-downloads-pc**](https://github.com/ViniciusSousaDev/script-backup-downloads-pc) <br/> <sub>Script em BAT criado para realizar backup de pasta específic</sub> | ⭐ 1 | 🍴 0 | `Batchfile` |
+| [**script-backup-downloads-pc**](https://github.com/ViniciusSousaDev/script-backup-downloads-pc) <br/> <sub>Script em BAT criado para realizar backup de pasta específica</sub> | ⭐ 1 | 🍴 0 | `Batchfile` |
 | [**ViniciusSousaDev**](https://github.com/ViniciusSousaDev/ViniciusSousaDev) <br/> <sub>_Sem descrição_</sub> | ⭐ 1 | 🍴 0 | `—` |
 
 </div>
@@ -235,15 +255,34 @@ const vinicius = {
 
 <div align="center">
 
+### ☁️ Tecnologia & Cloud
+
 | Badge | Certificado | Plataforma | Skills | Ano |
 |:---:|:---|:---:|:---|:---:|
-| <img src="https://images.credly.com/size/340x340/images/bb3211c0-a562-44ec-a8b5-df54deb0e5e9/blob" width="48"/> | **[AWS Academy — Cloud Developing](https://www.credly.com/badges/93429a23-f95d-4bfd-a837-26c6e8944613/linked_in_profile)** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | `AWS` `Serverless` `DevOps` `Cloud` | `2025` |
-| <img src="https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" width="48"/> | **[AWS Academy — Cloud Foundations](https://www.credly.com/badges/d3b6284c-302d-4e8a-b41a-73a096e7f034/linked_in_profile)** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | `AWS` `IaaS` `PaaS` `SaaS` | `2025` |
-| <img src="https://www.datacamp.com/statement-of-accomplishment/badge/course/9b6070693c060fd651184cada92e3a45ee3db2fd.png" width="48"/> | **[Intro to AWS Boto in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/9b6070693c060fd651184cada92e3a45ee3db2fd)** | ![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black) | `Python` `S3` `SNS` `Rekognition` | `2026` |
-| <img src="https://www.datacamp.com/statement-of-accomplishment/badge/course/84a2e126200f885cf9725b9d5c44af61ddda2fa3.png" width="48"/> | **[Deploying AI with FastAPI](https://www.datacamp.com/completed/statement-of-accomplishment/course/84a2e126200f885cf9725b9d5c44af61ddda2fa3)** | ![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black) | `Python` `FastAPI` `ML Deploy` | `2026` |
-| <img src="https://www.datacamp.com/statement-of-accomplishment/badge/course/fd5ca1b51d44e85ea43461427ba31f30b7763e5b.png" width="48"/> | **[Introduction to AI Agents](https://www.datacamp.com/completed/statement-of-accomplishment/course/fd5ca1b51d44e85ea43461427ba31f30b7763e5b)** | ![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black) | `AI Agents` `LLM` `RAG` `Multi-Agent` | `2026` |
-| <img src="https://www.datacamp.com/statement-of-accomplishment/badge/course/172e0e39c79355e3b191d025bd929db3a09ac377.png" width="48"/> | **[Introduction to APIs in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/172e0e39c79355e3b191d025bd929db3a09ac377)** | ![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black) | `Python` `REST` `HTTP` `JSON` | `2026` |
-| <img src="https://images.credly.com/size/340x340/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" width="48"/> | **[Computer Hardware Basics](https://www.credly.com/badges/bef08558-4eba-456f-aae1-a3843f5558b5/linked_in_profile)** | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | `Hardware` `Networking` `IT Fundamentals` | `2024` |
+| ☁️ | **Bootcamp Bradesco — GenAi, Dados & Cyber** | ![Bradesco](https://img.shields.io/badge/Bradesco-CC0000?style=flat-square&logoColor=white) | `GenAI` `Dados` `Cybersecurity` | `2026` |
+| 🤖 | **Capacita+ Aprenda IA com Google Cloud** | ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) | `AI` `Google Gemini` `Google Cloud` | `2025` |
+| <img src="https://images.credly.com/size/340x340/images/bb3211c0-a562-44ec-a8b5-df54deb0e5e9/blob" width="40"/> | **[AWS Academy — Cloud Developing](https://www.credly.com/badges/93429a23-f95d-4bfd-a837-26c6e8944613/linked_in_profile)** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | `AWS` `Serverless` `DevOps` `Cloud` | `2025` |
+| <img src="https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" width="40"/> | **[AWS Academy — Cloud Foundations](https://www.credly.com/badges/d3b6284c-302d-4e8a-b41a-73a096e7f034/linked_in_profile)** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | `AWS` `IaaS` `PaaS` `SaaS` | `2025` |
+| <img src="https://www.datacamp.com/statement-of-accomplishment/badge/course/9b6070693c060fd651184cada92e3a45ee3db2fd.png" width="40"/> | **[Intro to AWS Boto in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/9b6070693c060fd651184cada92e3a45ee3db2fd)** | ![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black) | `Python` `S3` `SNS` `Rekognition` | `2026` |
+| <img src="https://www.datacamp.com/statement-of-accomplishment/badge/course/84a2e126200f885cf9725b9d5c44af61ddda2fa3.png" width="40"/> | **[Deploying AI with FastAPI](https://www.datacamp.com/completed/statement-of-accomplishment/course/84a2e126200f885cf9725b9d5c44af61ddda2fa3)** | ![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black) | `Python` `FastAPI` `ML Deploy` | `2026` |
+| <img src="https://www.datacamp.com/statement-of-accomplishment/badge/course/fd5ca1b51d44e85ea43461427ba31f30b7763e5b.png" width="40"/> | **[Introduction to AI Agents](https://www.datacamp.com/completed/statement-of-accomplishment/course/fd5ca1b51d44e85ea43461427ba31f30b7763e5b)** | ![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black) | `AI Agents` `LLM` `RAG` `Multi-Agent` | `2026` |
+| <img src="https://www.datacamp.com/statement-of-accomplishment/badge/course/172e0e39c79355e3b191d025bd929db3a09ac377.png" width="40"/> | **[Introduction to APIs in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/172e0e39c79355e3b191d025bd929db3a09ac377)** | ![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black) | `Python` `REST` `HTTP` `JSON` | `2026` |
+| 🗄️ | **SQL — Structured Query Language** | ![FGV](https://img.shields.io/badge/FGV-003366?style=flat-square&logoColor=white) | `SQL` `Banco de dados` | `2026` |
+| <img src="https://images.credly.com/size/340x340/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" width="40"/> | **[Computer Hardware Basics](https://www.credly.com/badges/bef08558-4eba-456f-aae1-a3843f5558b5/linked_in_profile)** | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | `Hardware` `Networking` `IT Fundamentals` | `2024` |
+| 🖥️ | **Projetos de Sistemas de TI** | ![Bradesco](https://img.shields.io/badge/Fundação_Bradesco-CC0000?style=flat-square&logoColor=white) | `CSS` `HTML` `JavaScript` | `2024` |
+| 🔀 | **Introdução ao Git e GitHub** | ![FGV](https://img.shields.io/badge/FGV-003366?style=flat-square&logoColor=white) | `Git` `GitHub` `Versionamento` | `2026` |
+| 🤖 | **IA Generativa e o ChatGPT** | ![FGV](https://img.shields.io/badge/FGV-003366?style=flat-square&logoColor=white) | `IA Generativa` `ChatGPT` `Prompting` | `2026` |
+| 🧠 | **Introdução à Inteligência Artificial** | ![FGV](https://img.shields.io/badge/FGV-003366?style=flat-square&logoColor=white) | `AI` `Prompting` `Conceitos` | `2026` |
+| 🏗️ | **Full Stack Weekend: SaaS para Barbearias** | ![FSClub](https://img.shields.io/badge/Full_Stack_Club-7c3aed?style=flat-square&logoColor=white) | `Next.js` `SaaS` `Full Stack` | `2025` |
+
+### 📋 Gestão & Negócios
+
+| Badge | Certificado | Plataforma | Skills | Ano |
+|:---:|:---|:---:|:---|:---:|
+| 📁 | **Conceitos e Características dos Projetos** | ![FGV](https://img.shields.io/badge/FGV-003366?style=flat-square&logoColor=white) | `Gestão de projetos` `Metodologias ágeis` | `2026` |
+| 📝 | **Escrita Fiscal** | ![Thomson](https://img.shields.io/badge/Thomson_Reuters-FF8200?style=flat-square&logoColor=white) | `Fiscal` `Domínio` | `2026` |
+| 📊 | **DIRF 2026 \| eSocial** | ![Thomson](https://img.shields.io/badge/Thomson_Reuters-FF8200?style=flat-square&logoColor=white) | `Tarefas administrativas` `eSocial` | `2026` |
+| 🧾 | **Expert em Contabilidade** | ![Thomson](https://img.shields.io/badge/Thomson_Reuters-FF8200?style=flat-square&logoColor=white) | `Contabilidade` `Software de contabilidade` | `2026` |
 
 </div>
 
@@ -269,13 +308,13 @@ const vinicius = {
 ## 🌐 Experiência Profissional / Work Experience
 
 ```
-📁 Auxiliar Administrativo — Escritório de Contabilidade  (2021 – presente)
+📁 Auxiliar Administrativo — Estilu Contabilidade LTDA  (2021 – presente)
    ├── Organização e controle de documentos fiscais e contábeis
    ├── Suporte a processos internos e atendimento ao cliente
    ├── Trabalho com prazos rigorosos e atenção a detalhes
    └── Contato direto com sistemas de gestão empresarial (ERP/planilhas)
 
-📁 Formação Técnica — Gestão e Logística @ SENAI  (2019)
+📁 Formação Técnica — Gestão e Logística @ ETEC  (2019)
    ├── Processos logísticos, supply chain e gestão operacional
    └── Base sólida em organização empresarial e análise de fluxos
 ```
