@@ -257,32 +257,32 @@ const vinicius = {
 
 ### ☁️ Tecnologia & Cloud
 
-| Badge | Certificado | Plataforma | Skills | Ano |
-|:---:|:---|:---:|:---|:---:|
-| ☁️ | **Bootcamp Bradesco — GenAi, Dados & Cyber** | ![Bradesco](https://img.shields.io/badge/Bradesco-CC0000?style=flat-square&logoColor=white) | `GenAI` `Dados` `Cybersecurity` | `2026` |
-| 🤖 | **Capacita+ Aprenda IA com Google Cloud** | ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) | `AI` `Google Gemini` `Google Cloud` | `2025` |
-| <img src="https://images.credly.com/size/340x340/images/bb3211c0-a562-44ec-a8b5-df54deb0e5e9/blob" width="40"/> | **[AWS Academy — Cloud Developing](https://www.credly.com/badges/93429a23-f95d-4bfd-a837-26c6e8944613/linked_in_profile)** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | `AWS` `Serverless` `DevOps` `Cloud` | `2025` |
-| <img src="https://images.credly.com/size/340x340/images/e3541a0c-dd4a-4820-8052-5001006efc85/blob" width="40"/> | **[AWS Academy — Cloud Foundations](https://www.credly.com/badges/d3b6284c-302d-4e8a-b41a-73a096e7f034/linked_in_profile)** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | `AWS` `IaaS` `PaaS` `SaaS` | `2025` |
-| <img src="https://www.datacamp.com/statement-of-accomplishment/badge/course/9b6070693c060fd651184cada92e3a45ee3db2fd.png" width="40"/> | **[Intro to AWS Boto in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/9b6070693c060fd651184cada92e3a45ee3db2fd)** | ![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black) | `Python` `S3` `SNS` `Rekognition` | `2026` |
-| <img src="https://www.datacamp.com/statement-of-accomplishment/badge/course/84a2e126200f885cf9725b9d5c44af61ddda2fa3.png" width="40"/> | **[Deploying AI with FastAPI](https://www.datacamp.com/completed/statement-of-accomplishment/course/84a2e126200f885cf9725b9d5c44af61ddda2fa3)** | ![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black) | `Python` `FastAPI` `ML Deploy` | `2026` |
-| <img src="https://www.datacamp.com/statement-of-accomplishment/badge/course/fd5ca1b51d44e85ea43461427ba31f30b7763e5b.png" width="40"/> | **[Introduction to AI Agents](https://www.datacamp.com/completed/statement-of-accomplishment/course/fd5ca1b51d44e85ea43461427ba31f30b7763e5b)** | ![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black) | `AI Agents` `LLM` `RAG` `Multi-Agent` | `2026` |
-| <img src="https://www.datacamp.com/statement-of-accomplishment/badge/course/172e0e39c79355e3b191d025bd929db3a09ac377.png" width="40"/> | **[Introduction to APIs in Python](https://www.datacamp.com/completed/statement-of-accomplishment/course/172e0e39c79355e3b191d025bd929db3a09ac377)** | ![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black) | `Python` `REST` `HTTP` `JSON` | `2026` |
-| 🗄️ | **SQL — Structured Query Language** | ![FGV](https://img.shields.io/badge/FGV-003366?style=flat-square&logoColor=white) | `SQL` `Banco de dados` | `2026` |
-| <img src="https://images.credly.com/size/340x340/images/19e742ef-13be-4d26-87ed-ac8f5fd0643c/image.png" width="40"/> | **[Computer Hardware Basics](https://www.credly.com/badges/bef08558-4eba-456f-aae1-a3843f5558b5/linked_in_profile)** | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | `Hardware` `Networking` `IT Fundamentals` | `2024` |
-| 🖥️ | **Projetos de Sistemas de TI** | ![Bradesco](https://img.shields.io/badge/Fundação_Bradesco-CC0000?style=flat-square&logoColor=white) | `CSS` `HTML` `JavaScript` | `2024` |
-| 🔀 | **Introdução ao Git e GitHub** | ![FGV](https://img.shields.io/badge/FGV-003366?style=flat-square&logoColor=white) | `Git` `GitHub` `Versionamento` | `2026` |
-| 🤖 | **IA Generativa e o ChatGPT** | ![FGV](https://img.shields.io/badge/FGV-003366?style=flat-square&logoColor=white) | `IA Generativa` `ChatGPT` `Prompting` | `2026` |
-| 🧠 | **Introdução à Inteligência Artificial** | ![FGV](https://img.shields.io/badge/FGV-003366?style=flat-square&logoColor=white) | `AI` `Prompting` `Conceitos` | `2026` |
-| 🏗️ | **Full Stack Weekend: SaaS para Barbearias** | ![FSClub](https://img.shields.io/badge/Full_Stack_Club-7c3aed?style=flat-square&logoColor=white) | `Next.js` `SaaS` `Full Stack` | `2025` |
+| Certificado | Plataforma | Carga Horária | Ano |
+|:---|:---:|:---:|:---:|
+| **Bootcamp Bradesco — GenAI, Dados & Cyber** · `D0ZW67AA` | ![Bradesco](https://img.shields.io/badge/Bradesco-CC0000?style=flat-square&logoColor=white) | 1h | `2026` |
+| **Capacita+ Aprenda IA com Google Cloud** | ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) | — | `2025` |
+| **AWS Academy — Cloud Developing** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | — | `2025` |
+| **AWS Academy — Cloud Foundations** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | — | `2025` |
+| **Intro to AWS Boto in Python** | ![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black) | — | `2026` |
+| **Deploying AI with FastAPI** | ![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black) | — | `2026` |
+| **Introduction to AI Agents** | ![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black) | — | `2026` |
+| **Introduction to APIs in Python** | ![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=flat-square&logo=datacamp&logoColor=black) | — | `2026` |
+| **SQL — Structured Query Language** · `14866283.43669.OEG_SQL_25-1` | ![FGV](https://img.shields.io/badge/FGV_EESP-003366?style=flat-square&logoColor=white) | 24h | `2026` |
+| **Introdução ao Git e GitHub** · `14866228.38804.OEG_IGG_24-1` | ![FGV](https://img.shields.io/badge/FGV_Online-003366?style=flat-square&logoColor=white) | 15h | `2026` |
+| **IA Generativa e o ChatGPT** · `14911276.41126.OEG_IAGPT_24-1` | ![FGV](https://img.shields.io/badge/FGV_Online-003366?style=flat-square&logoColor=white) | 1h | `2026` |
+| **Introdução à Inteligência Artificial: Conceitos Básicos** · `14911275.40347.OEG_IIACB_24-1` | ![FGV](https://img.shields.io/badge/FGV_Online-003366?style=flat-square&logoColor=white) | 1h | `2026` |
+| **Full Stack Weekend: SaaS para Barbearias** | ![FSW](https://img.shields.io/badge/Full_Stack_Weekend-7c3aed?style=flat-square&logoColor=white) | 12h | `2025` |
+| **Computer Hardware Basics** | ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | — | `2024` |
+| **Projetos de Sistemas de TI** | ![Bradesco](https://img.shields.io/badge/Fundação_Bradesco-CC0000?style=flat-square&logoColor=white) | — | `2024` |
 
 ### 📋 Gestão & Negócios
 
-| Badge | Certificado | Plataforma | Skills | Ano |
-|:---:|:---|:---:|:---|:---:|
-| 📁 | **Conceitos e Características dos Projetos** | ![FGV](https://img.shields.io/badge/FGV-003366?style=flat-square&logoColor=white) | `Gestão de projetos` `Metodologias ágeis` | `2026` |
-| 📝 | **Escrita Fiscal** | ![Thomson](https://img.shields.io/badge/Thomson_Reuters-FF8200?style=flat-square&logoColor=white) | `Fiscal` `Domínio` | `2026` |
-| 📊 | **DIRF 2026 \| eSocial** | ![Thomson](https://img.shields.io/badge/Thomson_Reuters-FF8200?style=flat-square&logoColor=white) | `Tarefas administrativas` `eSocial` | `2026` |
-| 🧾 | **Expert em Contabilidade** | ![Thomson](https://img.shields.io/badge/Thomson_Reuters-FF8200?style=flat-square&logoColor=white) | `Contabilidade` `Software de contabilidade` | `2026` |
+| Certificado | Plataforma | Carga Horária | Ano |
+|:---|:---:|:---:|:---:|
+| **Conceitos e Características dos Projetos** · `14908271.21515.OCWCPREAD_5-1` | ![FGV](https://img.shields.io/badge/FGV_Online-003366?style=flat-square&logoColor=white) | 5h | `2026` |
+| **Escrita Fiscal** · `Credencial 93` | ![Thomson](https://img.shields.io/badge/Thomson_Reuters_Domínio-FF8200?style=flat-square&logoColor=white) | — | `2026` |
+| **DIRF 2026 \| eSocial** · `Credencial 104` | ![Thomson](https://img.shields.io/badge/Thomson_Reuters_Domínio-FF8200?style=flat-square&logoColor=white) | — | `2026` |
+| **Expert em Contabilidade** · `Credencial 54` | ![Thomson](https://img.shields.io/badge/Thomson_Reuters_Domínio-FF8200?style=flat-square&logoColor=white) | — | `2026` |
 
 </div>
 
